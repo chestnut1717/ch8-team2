@@ -45,5 +45,5 @@ jobs:
             registry-login-server: ${{ secrets.REGISTRY_LOGIN_SERVER }}
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
-            name: 1kaa1ds
+            name: ksx91n02
             location: 'korea central'
